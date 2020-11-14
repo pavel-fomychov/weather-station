@@ -29,8 +29,8 @@
 
 <h3>Подключение приемника SYN470R/SYN480R</h3>
 <h4>SYN480R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-<div>Data&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;2</div>
-<div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;3</div>
+<div>Data&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;2</div>
+<div>Vcc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;3</div>
 <div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение кнопок</h3>
