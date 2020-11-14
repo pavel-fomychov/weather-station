@@ -35,6 +35,6 @@
 
 <h3>Подключение кнопок</h3>
 <h4>Кнопка&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-<div>Кн.1&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;5</div>
-<div>Кн.2&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;4</div>
+<div>Кн.1&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;5</div>
+<div>Кн.2&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;4</div>
 
