@@ -21,10 +21,10 @@
 <div>GND&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение датчика SGP30</h3>
-<h4>SGP30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-<div>SDA&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4</div>
-<div>SCL&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A5</div>
-<div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;7</div>
+<h4>SGP30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
+<div>SDA&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4</div>
+<div>SCL&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A5</div>
+<div>Vcc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;7</div>
 <div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение приемника SYN470R/SYN480R</h3>
