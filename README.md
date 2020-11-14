@@ -5,33 +5,33 @@
   
 <h3>Подключение OLED дисплея</h3>
 <h4>OLED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-<p>D0&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;13</p>
-<p>D1&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;11</p>
-<p>CS&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;10</p>
-<p>DC&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;9</p>
-<p>RES&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;8</p>
-<p>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;5V</p>
-<p>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</p>
+<div>D0&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;13</div>
+<div>D1&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;11</div>
+<div>CS&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;10</div>
+<div>DC&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;9</div>
+<div>RES&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;8</div>
+<div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;5V</div>
+<div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение датчика BME280</h3>
 <h4>BME280&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-SDA&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4
-SCL&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A5
-Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;6
-GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND
+<div>SDA&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4</div>
+<div>SCL&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A5</div>
+<div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;6</div>
+<div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение датчика SGP30</h3>
 <h4>SGP30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-SDA&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4
-SCL&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A5
-Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;7
-GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND
+<div>SDA&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4</div>
+<div>SCL&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A5</div>
+<div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;7</div>
+<div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение приемника SYN470R/SYN480R</h3>
 <h4>SYN480R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
-Data&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;2
-Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;3
-GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND
+<div>Data&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;2</div>
+<div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;3</div>
+<div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение кнопок</h3>
 <div>Кн.1&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;5</div>
