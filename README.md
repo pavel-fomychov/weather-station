@@ -11,7 +11,7 @@
 <div>DC&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;9</div>
 <div>RES&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;8</div>
 <div>Vcc&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;5V</div>
-<div>GND&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
+<div>GND&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
 
 <h3>Подключение датчика BME280</h3>
 <h4>BME280&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
