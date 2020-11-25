@@ -2,10 +2,10 @@
 <h3>Применены модули SGP30 и BME280.<h3>
 <p>Для того что залить скетч, необходимо предварительно установить ядро Optiboot 8.0 или закомментировать один из режимов.</p>
 <p>Тем кто предварительно захочет протестировать проект виртуально, оставляю ссылку на схему в <a href="https://www.circuito.io/app?components=97,97,11114,13813,35286,466193,999979">circuito.io</a></p>
-<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_195030.jpg" style="height: 300px;">
-<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_194918.jpg">
-<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_194944.jpg" style="height: 300px;">
-<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_195118.jpg" style="height: 300px;">
+<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_195030.jpg" style="max-height:300px; !important">
+<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_194918.jpg" style="max-height:300px; !important">
+<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_194944.jpg" style="max-height:300px; !important">
+<img src="https://raw.githubusercontent.com/pavel-fomychov/weather-station/main/IMG_20201125_195118.jpg" style="max-height:300px; !important">
   
 <h3>Подключение OLED дисплея</h3>
 <h4>OLED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
