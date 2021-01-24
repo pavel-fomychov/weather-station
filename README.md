@@ -52,7 +52,7 @@
 <hr>
 <br>
 
-<h>Выносной модуль</h2>
+<h2>Выносной модуль</h2>
 <h3>Подключение датчика AHT10</h3>
 <h4>AHT10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
 <div>SDA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;A4</div>
@@ -62,7 +62,7 @@
 
 
 <h3>Подключение передатчика SYN115</h3>
-<h4>SYN480R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
+<h4>SYN115&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аrduino</h4>
 <div>Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;2</div>
 <div>Vcc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;Vcc</div>
 <div>GND&nbsp;&nbsp;&nbsp;&nbsp;->&nbsp;&nbsp;&nbsp;&nbsp;GND</div>
